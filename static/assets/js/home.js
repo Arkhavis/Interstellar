@@ -179,6 +179,7 @@ const SplashT = [
   "Click here to rotate through the quotes.",
   "Official Discord server: discord.gg/kT2vhHP4Xk",
   "Invite friends to the official Discord server: discord.gg/kT2vhHP4Xk",
+  "The low taper fade meme is still MASSIVE!!",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
