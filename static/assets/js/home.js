@@ -179,9 +179,14 @@ const SplashT = [
   "Customize your experience on the settings page.",
   "For a more discreet tab, check out the tab cloaking options on the settings page!",
   "Click here to rotate through the quotes.",
-  "Official Discord server: discord.gg/kT2vhHP4Xk",
-  "Invite friends to the official Discord server: discord.gg/kT2vhHP4Xk",
-  "The low taper fade meme is still MASSIVE!!",
+  "Invite friends to the official discord server!: discord.gg/kT2vhHP4Xk",
+  "Bananas are berries, but strawberries aren’t. Botanically, bananas meet the berry criteria, but strawberries don’t!",
+  "Octopuses have three hearts. Two pump blood to the gills, and one pumps it to the rest of the body.",
+  "There’s enough DNA in your body to stretch from the Earth to the Sun and back 600 times.",
+  "Napoleon was once attacked by a horde of bunnies. He organized a rabbit hunt, but the rabbits turned on him.",
+  "The shortest war in history lasted 38 to 45 minutes. It was between Britain and Zanzibar in 1896.",
+  "A shrimp’s heart is in its head. It’s located near its brain!",
+  "Cows have best friends. They form strong bonds and get stressed when separated.",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
