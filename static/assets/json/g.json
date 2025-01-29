@@ -1746,6 +1746,12 @@
     "categories": ["all"]
   },
   {
+    "name": "Case Clicker Interstellar Edition",
+    "link": "https://arkhavis.github.io/Case-Clicker-Interstellar-Edition/",
+    "image": "/assets/media/icons/caseclicker.webp",
+    "categories": ["all"]
+  },
+  {
     "name": "Hordes",
     "link": "https://hordes.io",
     "image": "/assets/media/icons/hordes.webp",
