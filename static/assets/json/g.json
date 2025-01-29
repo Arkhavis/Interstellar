@@ -1740,6 +1740,12 @@
     "categories": ["all"]
   },
   {
+    "name": "Case Clicker",
+    "link": "https://mtsl.dk/csgo/",
+    "image": "/assets/media/icons/caseclicker.webp",
+    "categories": ["all"]
+  },
+  {
     "name": "Hordes",
     "link": "https://hordes.io",
     "image": "/assets/media/icons/hordes.webp",
