@@ -187,6 +187,7 @@ const SplashT = [
   "The shortest war in history lasted 38 to 45 minutes. It was between Britain and Zanzibar in 1896.",
   "A shrimp’s heart is in its head. It’s located near its brain!",
   "Cows have best friends. They form strong bonds and get stressed when separated.",
+  "Sigma Boy :)",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
