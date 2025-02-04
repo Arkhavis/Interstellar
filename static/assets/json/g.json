@@ -1112,7 +1112,7 @@
   {
     "name": "Monkey Mart",
     "link": "/e/2/monkey-mart/index.html",
-    "image": "/assets/media/icons/mm.webp",
+    "image": "https://ubggo.github.io/ub-games/mm60/",
     "categories": ["all", "local"]
   },
   {
