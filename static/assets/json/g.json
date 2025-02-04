@@ -1110,10 +1110,10 @@
     "categories": ["all"]
   },
   {
-    "name": "Monkey Mart",
-    "link": "/e/2/monkey-mart/index.html",
-    "image": "https://ubggo.github.io/ub-games/mm60/",
-    "categories": ["all", "local"]
+    "name": "Monkey Mart (Updated)",
+    "link": "https://ubggo.github.io/ub-games/mm60/",
+    "image": "/assets/media/icons/mm.webp",
+    "categories": ["all"]
   },
   {
     "name": "MooMoo.io",
