@@ -112,7 +112,7 @@
   },
   {
     "name": "Earn to Die 2012 Part 2",
-    "link": "https://games-online.io/game/EarnToDie/index.html",
+    "link": "https://ezclasswork.com/science/earn-to-die/?gd_sdk_referrer_url=https://ezclasswork.com/play/earn-to-die",
     "image": "/assets/media/icons/earntodie2012part2.webp",
     "categories": ["all"]
   },
@@ -204,7 +204,9 @@
     "name": "Buckshot Roulette",
     "link": "https://buckshotroulette.online/game/v11/",
     "image": "/assets/media/icons/buckshotroulette.webp",
-    "categories": ["all"]
+    "categories": ["all"],
+    "error": "true",
+    "say": "Sorry, Buckshot Roulette doesn't work on Interstellar. Were working on a fix but it may take a long time."
   },
   {
     "name": "Starblast",
@@ -396,7 +398,7 @@
   },
   {
     "name": "Jetpack Joyride",
-    "link": "/e/jetpack-joyride/index.html",
+    "link": "https://abinbins.github.io/a7/jetpack-joyride/",
     "image": "/assets/media/icons/jetpackjoyride.webp",
     "categories": ["all", "local"]
   },
@@ -978,8 +980,8 @@
     "categories": ["all"]
   },
   {
-    "name": "Kirby Mirror (GBA)",
-    "link": "https://www.retrogames.onl/gba/kirby-mirror-gba.html",
+    "name": "Kirby & the Amazing Mirror (GBA)",
+    "link": "https://f.kbhgames.com/emujs/play.php?c=gba&f=kirby-amazing-mirror.gba",
     "image": "/assets/media/icons/kirby.webp",
     "categories": ["all"]
   },
@@ -1110,7 +1112,7 @@
     "categories": ["all"]
   },
   {
-    "name": "Monkey Mart (Updated)",
+    "name": "Monkey Mart",
     "link": "https://ubggo.github.io/ub-games/mm60/",
     "image": "/assets/media/icons/mm.webp",
     "categories": ["all"]
@@ -1315,7 +1317,7 @@
   },
   {
     "name": "Precision Client",
-    "link": "https://raw.githack.com/3kh0/3kh0-assets/main/precision-client/index.html",
+    "link": "https://happinessad.github.io/html/a3/",
     "image": "/assets/media/icons/precision.webp",
     "categories": ["all"]
   },
