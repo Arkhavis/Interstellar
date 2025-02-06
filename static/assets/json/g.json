@@ -845,7 +845,9 @@
     "name": "Cat Ninja",
     "link": "https://4iapq88o5f3gc1dij3it0mp5jojnm3jr-a-sites-opensocial.googleusercontent.com/gadgets/ifr?url=https://s3.amazonaws.com/production-assetsbucket-8ljvyr1xczmb/1ee20621-61bc-4ec8-a8ec-5e839c2e6edc%252Fcat-ninja.xml",
     "image": "/assets/media/icons/cat-ninja.webp",
-    "categories": ["all"]
+    "categories": ["all"],
+    "error": "true",
+    "say": "Cat Ninja's origins are unknown, therefore it will not work on Interstellar for now."
   },
   {
     "name": "Candy Box",
@@ -1245,7 +1247,7 @@
   },
   {
     "name": "Pizza Tower",
-    "link": "https://gamaverse.com/c/e/g/pizza-tower-1678640389/index.html",
+    "link": "https://kdata1.com/2021/03/3527391/2.1/",
     "image": "/assets/media/icons/pizza-tower.webp",
     "categories": ["all"]
   },
