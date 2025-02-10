@@ -1762,6 +1762,18 @@
     "categories": ["all"]
   },
   {
+    "name": "Human or Not?",
+    "link": "https://humanornot.so",
+    "image": "/assets/media/icons/humanornotso.webp",
+    "categories": ["all"]
+  },
+  {
+    "name": "Human or Not? 2",
+    "link": "https://app.humanornot.ai",
+    "image": "/assets/media/icons/humanornotai.webp",
+    "categories": ["all"]
+  },
+  {
     "name": "Venge",
     "link": "https://venge.io",
     "image": "/assets/media/icons/venge.webp",
